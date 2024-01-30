@@ -1,0 +1,50 @@
+body {
+    font-family: "Sirin Stencil", sans-serif;
+    background-size: cover;
+}
+
+.heading {
+    font-size: 25px ;
+    width: 100% ;
+    margin: 0px ;
+    color: bisque;
+}
+
+.note {
+    font-size: 15px;
+    color: bisque;
+}
+
+.div_speed {
+    float: left;
+}
+
+.disk_1 {
+    width: 200px;
+    border-radius: 100px ;
+}
+
+.div_volume {
+    float: right;
+}
+
+#Speed {
+    font-size: 25px ;
+    margin: 10px;
+}
+
+#Volume {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.Playing_button{
+    font-size: 26px ;
+    width: 30%;
+}
+
+canvas {
+    border: 2px ridge white;
+    border-radius: 35px ;
+    margin-top: 55px;
+}
